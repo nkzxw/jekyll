@@ -34,7 +34,7 @@ Jekyll is a simple, blog aware, static site generator. It takes a template direc
 * Colorator: Colorizes command line output (Ruby)
 * Classifier: Generating related posts (Ruby)
 * Directory Watcher: Auto-regeneration of sites (Ruby)
-* Liquid: Templating system (Ruby)
+* Liquid: Tem)
 * Maruku: Default markdown engine (Ruby)
 * Pygments.rb: Syntax highlighting (Ruby/Python)
 * RedCarpet: Markdown engine (Ruby)
